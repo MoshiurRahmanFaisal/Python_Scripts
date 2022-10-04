@@ -18,3 +18,9 @@
 
 - Trim and merge videos
 
+- Convert videos to frames
+
+- Get coordinate from a seleted roi from image
+
+- Use coordinate to crop frames from video
+
